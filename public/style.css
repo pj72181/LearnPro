@@ -1,0 +1,9 @@
+body { font-family: 'Open Sans', sans-serif; margin:0; padding:0; }
+.navbar { background:#333; color:#fff; padding:10px; display:flex; gap:10px; }
+.navbar a { color:white; text-decoration:none; }
+.hero { text-align:center; padding:40px; background:#f0f0f0; }
+.recent { padding:20px; }
+footer { background:#333; color:#fff; text-align:center; padding:10px; position:fixed; bottom:0; width:100%; }
+.progress { width:100%; background:#eee; height:10px; }
+#progress-bar { height:10px; background:#4caf50; width:0; }
+#timer { float:right; margin:10px; }
