@@ -1,0 +1,10 @@
+[
+  {
+    "id": "user1",
+    "name": "Alice",
+    "email": "alice@example.com",
+    "score": 0,
+    "badges": [],
+    "preferences": {"theme":"light"}
+  }
+]
